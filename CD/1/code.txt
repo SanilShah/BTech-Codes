@@ -1,0 +1,14 @@
+void main ( )
+{
+    int a , b = 2 + 3 ;
+    char ch = "abc" ;
+    a = 6 ;
+    if ( a < b )
+    {
+        printf (  "b_is_greater_than_a" ) ;
+    }
+    else
+    {
+        printf ( "a_is_greater_than_b" ) ;
+    }
+}

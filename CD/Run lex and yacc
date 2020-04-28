@@ -1,0 +1,13 @@
+1)Run Yacc program
+
+bison -dy Ass4_50.y
+flex ass4_50.l
+gcc lex.yy.c y.tab.c -w
+./a.out
+
+2) Run Lex Program
+
+flex ass3_50.l
+gcc lex.yy.c -lfl
+./a.out
+

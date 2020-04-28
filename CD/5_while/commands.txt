@@ -1,0 +1,6 @@
+lex while.l
+ bison -d while.y
+
+gcc y.tab.c
+./a.out
+

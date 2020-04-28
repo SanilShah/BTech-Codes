@@ -1,0 +1,7 @@
+a	b	+	c
+d	e	*	f
+x	y	+	z
+y	q	-	10
+g	c	+	b
+v	f	*	e
+m	q	-	10

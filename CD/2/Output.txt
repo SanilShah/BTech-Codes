@@ -1,0 +1,17 @@
+Line	Lexemes	Token
+1	int	Keyword
+1	main	Identifier
+1	(	Delimiter
+1	)	Delimiter
+2	{	Delimiter
+3	int	Keyword
+3	x	Identifier
+3	,	Delimiter
+3	y	Identifier
+3	;	Delimiter
+4	x	Identifier
+4	=	operator
+4	y	Identifier
+4	+	operator
+4	;	Delimiter
+5	}	Delimiter
